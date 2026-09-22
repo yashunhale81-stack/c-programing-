@@ -6,3 +6,7 @@ projects <br>
 4 :- currency converter <br>
 5 :- Hangman Game <br>
 6 :- Student Database System <br>
+7 :- Library Management System <br>
+8 :- Banking System <br>
+9 :- Hospital Management System <br>
+10 :- Railway Reservation System <br>
